@@ -115,7 +115,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+django_tutorial/.env
 .venv
 env/
 venv/
